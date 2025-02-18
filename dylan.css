@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    margin-top: 100px;
+    margin-left: 70px;
+    padding-top: 20px;
+    padding-left: 250px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
